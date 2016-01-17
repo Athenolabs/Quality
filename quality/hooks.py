@@ -3,9 +3,9 @@ from __future__ import unicode_literals
 
 app_name = "quality"
 app_title = "Quality"
-app_publisher = "ESO Electronic"
+app_publisher = "ESO Electronic (Nemwatik)"
 app_description = "App for managing customer complaints and quality management documentation."
-app_icon = "octicon octicon-file-directory"
+app_icon = "octicon octicon-zap"
 app_color = "#c0382b"
 app_email = "service@eso-electronic.com"
 app_version = "0.0.1"
@@ -107,4 +107,3 @@ app_license = "MIT"
 # override_whitelisted_methods = {
 # 	"frappe.desk.doctype.event.event.get_events": "quality.event.get_events"
 # }
-

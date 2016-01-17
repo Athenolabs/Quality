@@ -7,7 +7,7 @@ def get_data():
 		{
 			"module_name": "Quality",
 			"color": "#c0382b",
-			"icon": "octicon octicon-file-directory",
+			"icon": "octicon octicon-zap",
 			"type": "module",
 			"label": _("Quality")
 		}
