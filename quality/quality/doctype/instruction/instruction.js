@@ -22,11 +22,14 @@ frappe.ui.form.on("Instruction", {
 
 		// content read_only
 		frm.set_df_property("content", "read_only", editable ? 0: 1);
+		frm.set_df_property("company", "read_only", editable ? 0: 1);
+		frm.set_df_property("department", "read_only", editable ? 0: 1);
+		frm.set_df_property("valid_through", "read_only", editable ? 0: 1);
 
 		// hide all other fields
 		$.each(frm.fields_dict, function(fieldname, field) {
 
-			if(fieldname !== "content"
+			if(fieldname !== "content" && fieldname !== "company" && fieldname !=="department" && fieldname !=="valid_through"
 				&& !in_list(["Section Break", "Column Break"], field.df.fieldtype)) {
 					frm.set_df_property(fieldname, "hidden", editable ? 0: 1);
 				}
@@ -36,7 +39,7 @@ frappe.ui.form.on("Instruction", {
 		// no label, description for content either
 		frm.get_field("content").toggle_label(editable);
 		frm.get_field("content").toggle_description(editable);
-
+		
 		// set flag for toggle
 		frm.is_note_editable = editable;
 	}
