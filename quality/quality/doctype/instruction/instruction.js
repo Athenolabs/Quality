@@ -29,8 +29,8 @@ frappe.ui.form.on("Instruction", {
 		// hide all other fields
 		$.each(frm.fields_dict, function(fieldname, field) {
 
-			if(fieldname !== "content" && fieldname !== "company" && fieldname !=="department" && fieldname !=="valid_through"
-				&& !in_list(["Section Break", "Column Break"], field.df.fieldtype)) {
+			if(fieldname !== "content" && fieldname !== "company" && fieldname !=="department" && fieldname !=="valid_through" 
+				&& fieldname !=="status" && !in_list(["Section Break", "Column Break"], field.df.fieldtype)) {
 					frm.set_df_property(fieldname, "hidden", editable ? 0: 1);
 				}
 
