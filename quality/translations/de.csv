@@ -1,103 +1,103 @@
-DocType: Quality Report,5 Whys,
+DocType: Quality Report,5 Whys,5-Why-Methode
 DocType: Standard or Norm,Active,Aktiv
-DocType: Quality Report,Active Production Affected,
-DocType: Quality Report,Active Production Isolated,
-DocType: Quality Report,Affected Stock Isolated,
+DocType: Quality Report,Active Production Affected,Aktive Produktion betroffen
+DocType: Quality Report,Active Production Isolated,Aktive Produktion isoliert
+DocType: Quality Report,Affected Stock Isolated,Aktiver Lagerbestand isoliert
 DocType: Instruction,Amended From,Abgeändert von
-DocType: Quality Report,Applicable causes that could explain why the problem has occurred and why the problem was not noticed at the time it occurred. All causes shall be verified or proven. Use 5-Whys or Ishikawa diagrams to map causes against the effect or problem identified.,
+DocType: Quality Report,Applicable causes that could explain why the problem has occurred and why the problem was not noticed at the time it occurred. All causes shall be verified or proven. Use 5-Whys or Ishikawa diagrams to map causes against the effect or problem identified.,"Ursachen die erklären können weshalb das Problem aufgetreten sein könnte, weshalb es nicht aufgefallen ist und wann es passiert ist. Alle möglichen Ursachen müssen verifiziert und bewisen werden. 5-Why oder Ishikawa-Diagrappe müssen verwendet werden um die Ursachen dem Effekt oder dem Problem gegenüber zu stellen."
 DocType: Instruction,Approved,Genehmigt
-DocType: Standard or Norm,Catalog of international standard or norm to comply with quality and other regulations.,
-DocType: Certificate of Conformity,Certificate of Conformity,
+DocType: Standard or Norm,Catalog of international standard or norm to comply with quality and other regulations.,Katalog internationaler Standards und Normen des Qualitätsmanagement und anderer rechtlicher Vorschriften.
+DocType: Certificate of Conformity,Certificate of Conformity,Konformitätsbescheinigung
 DocType: Quality Report Action,Closed,Geschlossen
-DocType: Quality Report,Closing Words,
+DocType: Quality Report,Closing Words,Schlussbemerkungen
 DocType: Instruction,Company,Firma
 DocType: Quality Report Action,Completion Date,Fertigstellungstermin
-DocType: Quality Report Action,Containment,
-DocType: Quality Report,Containment Actions,
+DocType: Quality Report Action,Containment,Sofortmaßnahmen
+DocType: Quality Report,Containment Actions,Sofortmaßnahmen
 DocType: Instruction,Content,Inhalt
-DocType: Equipment Management,Control of monitoring and measuring equipment.,
-DocType: Quality Report Action,Corrective,
-DocType: Quality Report,Corrective Actions,
+DocType: Equipment Management,Control of monitoring and measuring equipment.,Kontrolle von Mess- und Prüfmitteln.
+DocType: Quality Report Action,Corrective,Abstellmaßnahmen
+DocType: Quality Report,Corrective Actions,Abstellmaßnahmen
 DocType: Quality Report,Customer,Kunde
 DocType: Quality Report,Customer Contact,Kundenkontakt
-DocType: Quality Report,Customer Item,
-DocType: Quality Report,Customer Return Code,
-DocType: Quality Report,D1 Team,
-DocType: Quality Report,D2 Description of the Problem,
-DocType: Quality Report,D3 Interim Containment Actions,
-DocType: Quality Report,D4 Root Causes and Escape Points,
-DocType: Quality Report,D5 Planning and Verification of Corrective Actions,
-DocType: Quality Report,D6 Definition and Implementation of Corrective Actions,
-DocType: Quality Report,D7 Recurrence Preventation,
-DocType: Quality Report,D8 Congratulating the Team,
+DocType: Quality Report,Customer Item,Kunden Artikelnummer
+DocType: Quality Report,Customer Return Code,Kunden Reklamationsnummer
+DocType: Quality Report,D1 Team,D1 Zusammenstellen eines Teams für die Problemlösung
+DocType: Quality Report,D2 Description of the Problem,D2 Problembeschreibung
+DocType: Quality Report,D3 Interim Containment Actions,D3 Sofortmaßnahmen festlegen
+DocType: Quality Report,D4 Root Causes and Escape Points,D4 Fehlerursache(n) feststellen
+DocType: Quality Report,D5 Planning and Verification of Corrective Actions,D5 Planen von Abstellmaßnahmen
+DocType: Quality Report,D6 Definition and Implementation of Corrective Actions,D6 Einführen der Abstellmaßnahmen
+DocType: Quality Report,D7 Recurrence Preventation,D7 Fehlerwiederholung verhindern
+DocType: Quality Report,D8 Congratulating the Team,D8 Würdigen der Teamleistung
 DocType: Quality Report,Date,Datum
-DocType: Quality Report,Date of Closure,
-DocType: Machine Maintenance,Date of commissioning,
-DocType: Quality Report,Definition and implementation of containment actions to isolate the problem from any customer.,
+DocType: Quality Report,Date of Closure,Abschlussdatum
+DocType: Machine Maintenance,Date of commissioning,Datum der Inbetriebnahme
+DocType: Quality Report,Definition and implementation of containment actions to isolate the problem from any customer.,Definition und Implementierung von Sofortmaßnahmen die das Problem vom Kunden isolieren.
 DocType: Instruction,Department,Abteilung
 DocType: Quality Report Action,Description,Beschreibung
-DocType: Certificate of Conformity,Documentation that goods are according to (international) norms.,
+DocType: Certificate of Conformity,Documentation that goods are according to (international) norms.,"Dokumentation, dass die Waren gemäß internationalen Normen hergestellt wurden."
 DocType: Instruction,Draft,Entwurf
 DocType: Quality Report Action,Due Date,Fälligkeitsdatum
-DocType: Quality Report,Eight Disciplines (8Ds) of Problem Solving,
+DocType: Quality Report,Eight Disciplines (8Ds) of Problem Solving,8-Disziplinen (8-Ds) der Problemlösung
 DocType: Employee Qualification,Employee,Mitarbeiter
-DocType: Employee Qualification,Employee Qualification,
-DocType: Equipment Management,Equipment Management,
-DocType: Failure Mode and Effects Analysis,Failure Mode and Effects Analysis,
+DocType: Employee Qualification,Employee Qualification,Mitarbeiter Qualifizierung
+DocType: Equipment Management,Equipment Management,Equipment Management
+DocType: Failure Mode and Effects Analysis,Failure Mode and Effects Analysis (FMEA),Fehler-Möglichkeits- und Einfluss-Analyse (FMEA)
 DocType: Quality Report Team Member,First Name,Vorname
-DocType: Quality Report,General Information,
+DocType: Quality Report,General Information,Allgemeine Informationen
 DocType: Instruction,"Help: To link to another record in the system, use ""#Form/Note/[Note Name]"" as the Link URL. (don't use ""http://"")","Hilfe: Um eine Verknüpfung mit einem anderen Datensatz im System zu erstellen, bitte ""#Formular/Anmerkung/[Anmerkungsname]"" als Verknüpfungs-URL verwenden (kein ""http://""!)."
-DocType: Initial Sample Inspection Report,Initial Sample Inspection Report,
-DocType: Instruction,Instruction,
-DocType: Instruction,Instructions such as Work or Process Instructions help define quality critical steps and standardize them.,
-DocType: Quality Report,Internal Process Owner,
+DocType: Initial Sample Inspection Report,Initial Sample Inspection Report,Erstmusterprüfbericht
+DocType: Instruction,Instructions,Anweisungen
+DocType: Instruction,Instructions such as Work or Process Instructions help define quality critical steps and standardize them.,"Anweisungen, inkl. Arbeits- oder Prozessanleitungen helfen dabei, kritische Schritte in der Qualität zu definieren und standardisieren."
+DocType: Quality Report,Internal Process Owner,Prozessverantwortlicher Mitarbeiter
 DocType: Quality Report,Item,Artikel
 DocType: Quality Report,Item Description,Artikelbeschreibung
-DocType: Quality Report Team Member,Last Name,Familienname
-DocType: Machine Maintenance,Machine,
-DocType: Machine Maintenance,Machine Maintenance,
+DocType: Quality Report Team Member,Last Name,Nachname
+DocType: Machine Maintenance,Machine,Maschine
+DocType: Machine Maintenance,Machine Maintenance,Maschinenwartung
 DocType: Machine Maintenance,Manufacturer,Hersteller
-DocType: Quality Report,"Modifications of the management systems, operation systems, practices, and procedures to prevent recurrence of this and all similar problems.",
+DocType: Quality Report,"Modifications of the management systems, operation systems, practices, and procedures to prevent recurrence of this and all similar problems.","Veränderungen des Qualitätsmanagements, Arbeitsanweisungen, Vorgehensweisen und Prozeduren die ein wiederholtes Auftreten dieses oder ähnlicher Probleme verhindert."
 DocType: Quality Report,Naming Series,Nummernkreis
-DocType: Machine Maintenance,Network Address,
-DocType: Standard or Norm,Norm,
-DocType: Standard or Norm,Obsolete,
-DocType: Quality Report Action,Open,Offen/Öffnen
-DocType: Standard or Norm,PDF Document,
-DocType: Production Part Approval Process,PPAP is used for establishing confidence in component suppliers and their production processes. ,
-DocType: Supplier Rating,Performance indicators and service quality rating for suppliers.,
-DocType: Quality Report Action,Person in Charge,
+DocType: Machine Maintenance,Network Address,Netzwerk-Adresse
+DocType: Standard or Norm,Norm,Norm
+DocType: Standard or Norm,Obsolete,Obsolet
+DocType: Quality Report Action,Open,Öffnen
+DocType: Standard or Norm,PDF Document,PDF-Datei
+DocType: Production Part Approval Process,PPAP is used for establishing confidence in component suppliers and their production processes.,PPAP sollen die Qualität von Zulieferer und deren Produktionsprozesse darlegen.
+DocType: Supplier Rating,Performance indicators and service quality rating for suppliers.,Leistungsindikatoren und Service-Qualitäts-Rating für Lieferanten
+DocType: Quality Report Action,Person in Charge,zuständige Person
 DocType: Quality Report Team Member,Phone No,Telefonnummer
-DocType: Quality Report,Planned and verified Corrective Actions,
-DocType: Quality Report,Problem Description,
-DocType: Production Part Approval Process,Production Part Approval Process,
+DocType: Quality Report,Planned and verified Corrective Actions,Geplante und verifizierte Korrekturmaßnahmen
+DocType: Quality Report,Problem Description,Problembeschreibung
+DocType: Production Part Approval Process,Production Part Approval Process (PPAP),Produktionsteil-Abnahmeverfahren (PPAP)
 DocType: Certificate of Conformity,Quality,Qualität
 DocType: Certificate of Conformity,Quality Manager,Qualitätsmanager
-DocType: Quality Report,Quality Report,
-DocType: Quality Report Action,Quality Report Action,
-DocType: Quality Report Team Member,Quality Report Team Member,
-DocType: Quality Report,Quantitative confirmation that the selected correction will resolve the problem and verification that the correction will actually solve the problem.,
-DocType: Quality Report,Quantity of rejected items,
-DocType: Quality Report,Recognition of the collective efforts of the team on both the customers and the suppliers side.,
-DocType: Quality Report,Recurrance Preventation,
-DocType: Standard or Norm,Release Date,
-DocType: Quality Report,Root causes,
-DocType: Machine Maintenance,Serial Number,
-DocType: Quality Report,Shipped Items Affected,
-DocType: Quality Report,Shipped Items Identified,
-DocType: Quality Report,Shipped Items Remark,
-DocType: Quality Report,"Specification of the problem by identifying in quantifiable terms the who, what, where, when, why, how, and how many (5W2H) for the problem.",
-DocType: Quality Report,"Specify delivery dates, delivery note numbers, etc.",
-DocType: Standard or Norm,Standard or Norm,
-DocType: Standards and Norms,Standards and Norms,
+DocType: Quality Report,Quality Report,Qualitätsbericht
+DocType: Quality Report Action,Quality Report Action,Qualitätsberichtsmaßnahme(n)
+DocType: Quality Report Team Member,Quality Report Team Member,Qualitätsbericht Team-Mitglied
+DocType: Quality Report,Quantitative confirmation that the selected correction will resolve the problem and verification that the correction will actually solve the problem.,"Quantitative Bestätigung, dass die Korrekturmaßnahme das Problem tatsächlich löst."
+DocType: Quality Report,Quantity of rejected items,Anzahl der zurückgewiesenen Artikel
+DocType: Quality Report,Recognition of the collective efforts of the team on both the customers and the suppliers side.,Anerkennung der Anstrengungen auf der Kunden und Lieferantenseite.
+DocType: Quality Report,Recurrance Preventation,Fehlerwiederholung verhindern
+DocType: Standard or Norm,Release Date,Freigabedatum
+DocType: Quality Report,Root causes,Fehlerursachen
+DocType: Machine Maintenance,Serial Number,Seriennummer
+DocType: Quality Report,Shipped Items Affected,Gelieferte Ware betroffen
+DocType: Quality Report,Shipped Items Identified,Gelieferte Ware identifiziert
+DocType: Quality Report,Shipped Items Remark,Bemerkung zu gelieferten Waren
+DocType: Quality Report,"Specification of the problem by identifying in quantifiable terms the who, what, where, when, why, how, and how many (5W2H) for the problem.","Spezifizierung des Problems durch klar identifizierbare Faktoren wer, was, wo, wann, weshalb, wie, wie viele (5W2H)."
+DocType: Quality Report,"Specify delivery dates, delivery note numbers, etc.","Spezifische Liefertermine, Lieferscheinnummer, usw."
+DocType: Standard or Norm,Standard or Norm,Standard oder Norm
+DocType: Standards and Norms,Standards and Norms,Standards oder Normen
 DocType: Instruction,Status,Status
-DocType: Failure Mode and Effects Analysis,"Step-by-step approach for identifying all possible failures in a design, a manufacturing or assembly process, or a product or service.",
-DocType: Quality Report,Stock Items Affected,
-DocType: Supplier Rating,Supplier Rating,
-DocType: Quality Report,Team,
-DocType: Quality Report,Team of people with product/process knowledge.,
+DocType: Failure Mode and Effects Analysis,"Step-by-step approach for identifying all possible failures in a design, a manufacturing or assembly process, or a product or service.","Schrittweiser Prozess zur Identifikation aller möglichen Fehler im Design, Fertigungsprozess, Produkt oder Service."
+DocType: Quality Report,Stock Items Affected,Lagerbestände betroffen
+DocType: Supplier Rating,Supplier Rating,Lieferantenbewertung
+DocType: Quality Report,Team,Team
+DocType: Quality Report,Team of people with product/process knowledge.,Team mit entsprechenden Kenntnissen zum Produkt und Prozess.
 DocType: Instruction,Title,Bezeichnung
 DocType: Quality Report Action,Type,Typ
 DocType: Quality Report Team Member,User,Benutzer
-DocType: Instruction,Valid through,
+DocType: Instruction,Valid through,Gültig bis
 DocType: Quality Report Action,Working,In Bearbeitung
