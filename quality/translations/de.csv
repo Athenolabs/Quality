@@ -1,0 +1,103 @@
+DocType: Quality Report,5 Whys,
+DocType: Standard or Norm,Active,Aktiv
+DocType: Quality Report,Active Production Affected,
+DocType: Quality Report,Active Production Isolated,
+DocType: Quality Report,Affected Stock Isolated,
+DocType: Instruction,Amended From,Abgeändert von
+DocType: Quality Report,Applicable causes that could explain why the problem has occurred and why the problem was not noticed at the time it occurred. All causes shall be verified or proven. Use 5-Whys or Ishikawa diagrams to map causes against the effect or problem identified.,
+DocType: Instruction,Approved,Genehmigt
+DocType: Standard or Norm,Catalog of international standard or norm to comply with quality and other regulations.,
+DocType: Certificate of Conformity,Certificate of Conformity,
+DocType: Quality Report Action,Closed,Geschlossen
+DocType: Quality Report,Closing Words,
+DocType: Instruction,Company,Firma
+DocType: Quality Report Action,Completion Date,Fertigstellungstermin
+DocType: Quality Report Action,Containment,
+DocType: Quality Report,Containment Actions,
+DocType: Instruction,Content,Inhalt
+DocType: Equipment Management,Control of monitoring and measuring equipment.,
+DocType: Quality Report Action,Corrective,
+DocType: Quality Report,Corrective Actions,
+DocType: Quality Report,Customer,Kunde
+DocType: Quality Report,Customer Contact,Kundenkontakt
+DocType: Quality Report,Customer Item,
+DocType: Quality Report,Customer Return Code,
+DocType: Quality Report,D1 Team,
+DocType: Quality Report,D2 Description of the Problem,
+DocType: Quality Report,D3 Interim Containment Actions,
+DocType: Quality Report,D4 Root Causes and Escape Points,
+DocType: Quality Report,D5 Planning and Verification of Corrective Actions,
+DocType: Quality Report,D6 Definition and Implementation of Corrective Actions,
+DocType: Quality Report,D7 Recurrence Preventation,
+DocType: Quality Report,D8 Congratulating the Team,
+DocType: Quality Report,Date,Datum
+DocType: Quality Report,Date of Closure,
+DocType: Machine Maintenance,Date of commissioning,
+DocType: Quality Report,Definition and implementation of containment actions to isolate the problem from any customer.,
+DocType: Instruction,Department,Abteilung
+DocType: Quality Report Action,Description,Beschreibung
+DocType: Certificate of Conformity,Documentation that goods are according to (international) norms.,
+DocType: Instruction,Draft,Entwurf
+DocType: Quality Report Action,Due Date,Fälligkeitsdatum
+DocType: Quality Report,Eight Disciplines (8Ds) of Problem Solving,
+DocType: Employee Qualification,Employee,Mitarbeiter
+DocType: Employee Qualification,Employee Qualification,
+DocType: Equipment Management,Equipment Management,
+DocType: Failure Mode and Effects Analysis,Failure Mode and Effects Analysis,
+DocType: Quality Report Team Member,First Name,Vorname
+DocType: Quality Report,General Information,
+DocType: Instruction,"Help: To link to another record in the system, use ""#Form/Note/[Note Name]"" as the Link URL. (don't use ""http://"")","Hilfe: Um eine Verknüpfung mit einem anderen Datensatz im System zu erstellen, bitte ""#Formular/Anmerkung/[Anmerkungsname]"" als Verknüpfungs-URL verwenden (kein ""http://""!)."
+DocType: Initial Sample Inspection Report,Initial Sample Inspection Report,
+DocType: Instruction,Instruction,
+DocType: Instruction,Instructions such as Work or Process Instructions help define quality critical steps and standardize them.,
+DocType: Quality Report,Internal Process Owner,
+DocType: Quality Report,Item,Artikel
+DocType: Quality Report,Item Description,Artikelbeschreibung
+DocType: Quality Report Team Member,Last Name,Familienname
+DocType: Machine Maintenance,Machine,
+DocType: Machine Maintenance,Machine Maintenance,
+DocType: Machine Maintenance,Manufacturer,Hersteller
+DocType: Quality Report,"Modifications of the management systems, operation systems, practices, and procedures to prevent recurrence of this and all similar problems.",
+DocType: Quality Report,Naming Series,Nummernkreis
+DocType: Machine Maintenance,Network Address,
+DocType: Standard or Norm,Norm,
+DocType: Standard or Norm,Obsolete,
+DocType: Quality Report Action,Open,Offen/Öffnen
+DocType: Standard or Norm,PDF Document,
+DocType: Production Part Approval Process,PPAP is used for establishing confidence in component suppliers and their production processes. ,
+DocType: Supplier Rating,Performance indicators and service quality rating for suppliers.,
+DocType: Quality Report Action,Person in Charge,
+DocType: Quality Report Team Member,Phone No,Telefonnummer
+DocType: Quality Report,Planned and verified Corrective Actions,
+DocType: Quality Report,Problem Description,
+DocType: Production Part Approval Process,Production Part Approval Process,
+DocType: Certificate of Conformity,Quality,Qualität
+DocType: Certificate of Conformity,Quality Manager,Qualitätsmanager
+DocType: Quality Report,Quality Report,
+DocType: Quality Report Action,Quality Report Action,
+DocType: Quality Report Team Member,Quality Report Team Member,
+DocType: Quality Report,Quantitative confirmation that the selected correction will resolve the problem and verification that the correction will actually solve the problem.,
+DocType: Quality Report,Quantity of rejected items,
+DocType: Quality Report,Recognition of the collective efforts of the team on both the customers and the suppliers side.,
+DocType: Quality Report,Recurrance Preventation,
+DocType: Standard or Norm,Release Date,
+DocType: Quality Report,Root causes,
+DocType: Machine Maintenance,Serial Number,
+DocType: Quality Report,Shipped Items Affected,
+DocType: Quality Report,Shipped Items Identified,
+DocType: Quality Report,Shipped Items Remark,
+DocType: Quality Report,"Specification of the problem by identifying in quantifiable terms the who, what, where, when, why, how, and how many (5W2H) for the problem.",
+DocType: Quality Report,"Specify delivery dates, delivery note numbers, etc.",
+DocType: Standard or Norm,Standard or Norm,
+DocType: Standards and Norms,Standards and Norms,
+DocType: Instruction,Status,Status
+DocType: Failure Mode and Effects Analysis,"Step-by-step approach for identifying all possible failures in a design, a manufacturing or assembly process, or a product or service.",
+DocType: Quality Report,Stock Items Affected,
+DocType: Supplier Rating,Supplier Rating,
+DocType: Quality Report,Team,
+DocType: Quality Report,Team of people with product/process knowledge.,
+DocType: Instruction,Title,Bezeichnung
+DocType: Quality Report Action,Type,Typ
+DocType: Quality Report Team Member,User,Benutzer
+DocType: Instruction,Valid through,
+DocType: Quality Report Action,Working,In Bearbeitung
