@@ -25,11 +25,12 @@ frappe.ui.form.on("Instruction", {
 		frm.set_df_property("company", "read_only", editable ? 0: 1);
 		frm.set_df_property("department", "read_only", editable ? 0: 1);
 		frm.set_df_property("valid_through", "read_only", editable ? 0: 1);
+		frm.set_df_property("valid_from", "read_only", editable ? 0: 1);
 
 		// hide all other fields
 		$.each(frm.fields_dict, function(fieldname, field) {
 
-			if(fieldname !== "content" && fieldname !== "company" && fieldname !=="department" && fieldname !=="valid_through" 
+			if(fieldname !== "content" && fieldname !== "company" && fieldname !=="department" && fieldname !=="valid_through" && fieldname !=="valid_from" 
 				&& fieldname !=="status" && !in_list(["Section Break", "Column Break"], field.df.fieldtype)) {
 					frm.set_df_property(fieldname, "hidden", editable ? 0: 1);
 				}
