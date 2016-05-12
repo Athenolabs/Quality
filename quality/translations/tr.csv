@@ -1,0 +1,106 @@
+DocType: Quality Report,5 Whys,5 Neden Analizi
+DocType: Standard or Norm,Active,Aktif
+DocType: Quality Report,Active Production Affected,Güncel Üretim Etkilendi
+DocType: Quality Report,Active Production Isolated,Güncel Üretim Ayıklandı
+DocType: Quality Report,Affected Stock Isolated,Güncel Stok Ayıklandı
+DocType: Instruction,Amended From,Şu dökümandan türetildi
+DocType: Quality Report,Applicable causes that could explain why the problem has occurred and why the problem was not noticed at the time it occurred. All causes shall be verified or proven. Use 5-Whys or Ishikawa diagrams to map causes against the effect or problem identified.,Sorunun neden ortaya çıktığını ve sorun oluştuğu anda neden farkedilmediğini açıklayabilecek geçerli nedenler.  Tüm gerekçeler doğrulanmalı veya kanıtlanmalıdır. 5 Neden analizi ya da Balık kılçığı yöntemlerini kullanarak kök nedenler ile ortaya çıkan sorun ve etkileri ilişkilendirin.
+DocType: Instruction,Approved,Onaylandı
+DocType: Standard or Norm,Catalog of international standard or norm to comply with quality and other regulations.,"Uyulması gereken uluslararası kalite standartları, normlar ve diğer kurallar kataloğu"
+DocType: Certificate of Conformity,Certificate of Conformity,Uygunluk belgesi
+DocType: Quality Report Action,Closed,Kapatıldı
+DocType: Quality Report,Closing Words,Kapanış yorumları
+DocType: Instruction,Company,Firma
+DocType: Quality Report Action,Completion Date,Tamamlanma tarihi
+DocType: Quality Report Action,Containment,Acil sınırlandırma önlemi
+DocType: Quality Report,Containment Actions,Acil sınırlandırma önlemleri
+DocType: Instruction,Content,İçerik
+DocType: Equipment Management,Control of monitoring and measuring equipment.,Ölçüm aletlerinin kontrolü
+DocType: Quality Report Action,Corrective,Düzeltici faaliyet
+DocType: Quality Report,Corrective Actions,Düzeltici faaliyetler
+DocType: Quality Report,Customer,Müşteri
+DocType: Quality Report,Customer Contact,İlgili kişi (Müşteri)
+DocType: Quality Report,Customer Item,Müşteri Ürün Kodu
+DocType: Quality Report,Customer Return Code,Müşteri İade Numarası
+DocType: Quality Report,D1 Team,D1 Takımın kuruluşu
+DocType: Quality Report,D2 Description of the Problem,D2 Problemin tanımlanması
+DocType: Quality Report,D3 Interim Containment Actions,D3 Acil sınırlandırma faaliyetleri
+DocType: Quality Report,D4 Root Causes and Escape Points,D4 Kök Neden ve Kaçış Noktasının Tanımlanması ve Doğrulama
+DocType: Quality Report,D5 Planning and Verification of Corrective Actions,D5 Düzeltici faaliyetlerin seçimi ve doğrulanması
+DocType: Quality Report,D6 Definition and Implementation of Corrective Actions,D6 Düzeltici faaliyetlerin uygulanması ve onaylanması
+DocType: Quality Report,D7 Recurrence Preventation,D7 Hata tekrarının önlenmesi
+DocType: Quality Report,D8 Congratulating the Team,D8 Birey ve Takım Katkılarının takdiri
+DocType: Quality Report,Date,Tarih
+DocType: Quality Report,Date of Closure,Kapanış tarihi
+DocType: Machine Maintenance,Date of commissioning,Devreye alma tarihi
+DocType: Quality Report,Definition and implementation of containment actions to isolate the problem from any customer.,Sorunu müşteriden izole edecek sınırlandırma faaliyetlerinin tanımlanması ve uygulanması
+DocType: Instruction,Department,Departman
+DocType: Quality Report Action,Description,Açıklama
+DocType: Certificate of Conformity,Documentation that goods are according to (international) norms.,Ürünlerin (uluslararası) normlara uygun olduğunu gösteren belgeler.
+DocType: Instruction,Draft,Taslak
+DocType: Quality Report Action,Due Date,Hedef tarih
+DocType: Quality Report,Eight Disciplines (8Ds) of Problem Solving,Problem çözmenin 8-Disiplini (8-D)
+DocType: Employee Qualification,Employee,Çalışan
+DocType: Employee Qualification,Employee Qualification,Çalışan Yetkinliği
+DocType: Equipment Management,Equipment Management,Ekipman Yönetimi
+DocType: Failure Mode and Effects Analysis,Failure Mode and Effects Analysis (FMEA),Hata Modu ve Etkileri Analizi (FMEA)
+DocType: Quality Report Team Member,First Name,Ad
+DocType: Quality Report,General Information,Genel Bilgiler
+DocType: Instruction,"Help: To link to another record in the system, use ""#Form/Note/[Note Name]"" as the Link URL. (don't use ""http://"")","Yardım: Sistemdeki başka bir kayıtla ilişkilendirmek için, ""#Form/Not/(Not adı)"" şeklinde link adresi yazın. (""http://"" kullanmayın)"
+DocType: Initial Sample Inspection Report,Initial Sample Inspection Report,İlk Numune Ölçüm Raporu
+DocType: Instruction,Instructions,Talimatlar
+DocType: Instruction,Instructions such as Work or Process Instructions help define quality critical steps and standardize them.,Çalışma veya Proses Talimatları gibi talimatlar kalite için kritik adımların tanımlanmasına ve standartlaştırılmasına yardımcı olur.
+DocType: Quality Report,Internal Process Owner,İç Proses Yetkilisi
+DocType: Quality Report,Item,Ürün
+DocType: Quality Report,Item Description,Ürün Açıklaması
+DocType: Quality Report Team Member,Last Name,Soyad
+DocType: Machine Maintenance,Machine,Makine
+DocType: Machine Maintenance,Machine Maintenance,Makine Bakımı
+DocType: Machine Maintenance,Manufacturer,Üretici
+DocType: Quality Report,"Modifications of the management systems, operation systems, practices, and procedures to prevent recurrence of this and all similar problems.","Aynı veya benzer bir sorunun tekrar ortaya çıkmasını engelleyecek önlemler: Uygulama, Prosedür, Üretim sistemleri, Kalite yönetim sistemlerinde düzenlemeler gibi"
+DocType: Quality Report,Naming Series,Numaralandırma Serisi
+DocType: Machine Maintenance,Network Address,Ağ Adresi
+DocType: Standard or Norm,Norm,Norm
+DocType: Standard or Norm,Obsolete,Süresi geçmiş
+DocType: Quality Report Action,Open,Aç
+DocType: Standard or Norm,PDF Document,PDF Dökümanı
+DocType: Production Part Approval Process,PPAP is used for establishing confidence in component suppliers and their production processes.,"PPAP dosyası, tedarikçinin yetkinliğine ve üretim prosesine güven oluşturmak için kullanılır."
+DocType: Supplier Rating,Performance indicators and service quality rating for suppliers.,Tedarikçiler için performans indikatörleri ve servis kalite puanları.
+DocType: Quality Report Action,Person in Charge,Yetkili kişi
+DocType: Quality Report Team Member,Phone No,Telefon numarası
+DocType: Quality Report,Planned and verified Corrective Actions,Planlanmış ve Doğrulanmış düzeltici faaliyetler
+DocType: Quality Report,Problem Description,Problemin tanımı
+DocType: Production Part Approval Process,Production Part Approval Process (PPAP),Seri Ürün Onay Süreci (PPAP)
+DocType: Certificate of Conformity,Quality,Kalite
+DocType: Certificate of Conformity,Quality Manager,Kalite Yöneticisi
+DocType: Quality Report,Quality Report,Kalite Raporu
+DocType: Quality Report Action,Quality Report Action,Kalite Raporu Eylemleri
+DocType: Quality Report Team Member,Quality Report Team Member,Kalite Raporu Takım Üyesi
+DocType: Quality Report,Quantitative confirmation that the selected correction will resolve the problem and verification that the correction will actually solve the problem.,Seçilen düzeltici önlemin problemi çözeceğinin sayısal kanıtı ve önlemin problemi çözeceğinin doğrulanması.
+DocType: Quality Report,Quantity of rejected items,Red edilen ürün adeti
+DocType: Quality Report,Recognition of the collective efforts of the team on both the customers and the suppliers side.,"Takımın çalışma ve çabalarının takdir edilmesi (hem tedarikçi, hem de müşteri tarafı için)"
+DocType: Quality Report,Recurrance Preventation,Hata tekrarının önlenmesi
+DocType: Standard or Norm,Release Date,Yayın Tarihi
+DocType: Quality Report,Root causes,Kök Nedenler
+DocType: Machine Maintenance,Serial Number,Seri Numarası
+DocType: Quality Report,Shipped Items Affected,Sevk Edilmiş Ürünler Etkilendi
+DocType: Quality Report,Shipped Items Identified,Sevk Edilmiş Hatalı Ürünler Tanımlandı
+DocType: Quality Report,Shipped Items Remark,Sevk Edilmiş Ürünler Açıklaması
+DocType: Quality Report,"Specification of the problem by identifying in quantifiable terms the who, what, where, when, why, how, and how many (5W2H) for the problem.","Problemin detaylı tanımlanması için şu sorulara sayısal ve net yanıtlar verilmelidir: kim, ne, nerede, ne zaman, neden, nasıl ve kaç adet (5N2K)"
+DocType: Quality Report,"Specify delivery dates, delivery note numbers, etc.","Sevk tarihleri, İrsaliye numaraları, Lot Numaraları vb. belirtin"
+DocType: Standard or Norm,Standard or Norm,Standart veya Norm
+DocType: Standards and Norms,Standards and Norms,Standartlar ve Normlar
+DocType: Instruction,Status,Durum
+DocType: Failure Mode and Effects Analysis,"Step-by-step approach for identifying all possible failures in a design, a manufacturing or assembly process, or a product or service.","Bir tasarımdaki, üretim veya montaj prosesindeki, üründeki veya hizmetteki tüm eksiklik ve hataları adım adım belirlemeyi amaçlayan sistematik bir yaklaşım."
+DocType: Quality Report,Stock Items Affected,Güncel Stok Etkilendi
+DocType: Supplier Rating,Supplier Rating,Tedarikçi puanı
+DocType: Quality Report,Team,Takım
+DocType: Quality Report,Team of people with product/process knowledge.,Ürünü veya Prosesi tanıyan kişilerden oluşturulmuş takım
+DocType: Instruction,Title,Başlık
+DocType: Quality Report Action,Type,Tür
+DocType: Quality Report Team Member,User,Kullanıcı
+DocType: Instruction,Valid through,Son Geçerlilik Tarihi
+DocType: Quality Report Action,Working,Devam ediyor
+DocType: Failure Mode and Effects Analysis,Failure Mode and Effects Analysis,Hata Türü ve Etkileri Analizi (FMEA)
+DocType: Instruction,Instruction,Talimat
+DocType: Production Part Approval Process,Production Part Approval Process,Parça Onay Süreci (PPAP)
